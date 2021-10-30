@@ -1,16 +1,19 @@
-### Hi there 👋
+# My projects:
 
-<!--
-**vitalyliber/vitalyliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile apps
 
-Here are some ideas to get you started:
+🎂 **[Bip. Birthday Reminder](https://bip.casply.com):** Customise reminders, down to the day, time, and frequency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇬🇧 **[Irregular Verbs](https://iv.casply.com):** Learn English effortlessly.
+
+👷 **[Remote Jobs](https://remote.casply.com/install):** Work anywhere, live everywhere.
+
+## Open Source
+
+🔔 **[Rpush-server](https://github.com/vitalyliber/rpush-server):** Send notifications to iOS/Android easily.
+
+
+## Contacts:
+
+[Telegram](https://t.me/vitalyliber)
+
