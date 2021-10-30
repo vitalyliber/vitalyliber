@@ -2,7 +2,7 @@
 
 ### Mobile apps
 
-🎂 **[Bip. Birthday Reminder](https://bip.casply.com):** Customise reminders, down to the day, time, and frequency.
+🎂 **[Bip. Birthday Reminder](https://bip.casply.com):** Remember all special days.
 
 🇬🇧 **[Irregular Verbs](https://iv.casply.com):** Learn English effortlessly.
 
@@ -12,8 +12,12 @@
 
 🔔 **[Rpush-server](https://github.com/vitalyliber/rpush-server):** Send notifications to iOS/Android easily.
 
-
 ## Contacts:
 
-[Telegram](https://t.me/vitalyliber)
+✉️ [Telegram](https://t.me/vitalyliber)
 
+🤳 [Instagram](https://www.instagram.com/vitalyliber)
+
+## Stack
+
+React Native, Expo, NextJS, React, TypeScript, JavaScript, Expo, Redux, MobX, Ruby on Rails
