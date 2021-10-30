@@ -8,11 +8,11 @@
 
 👷 **[Remote Jobs](https://remote.casply.com/install):** Work anywhere, live everywhere.
 
-## Open Source
+### Open Source
 
 🔔 **[Rpush-server](https://github.com/vitalyliber/rpush-server):** Send notifications to iOS/Android easily.
 
-## Contacts:
+### Contacts:
 
 ✉️ [Telegram](https://t.me/vitalyliber)
 
