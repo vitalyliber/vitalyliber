@@ -18,7 +18,7 @@
 
 🤳 [Instagram](https://www.instagram.com/vitalyliber)
 
-📕 [Blog](https://t.me/useruby)
+📕 [Blog](https://t.me/s/useruby)
 
 # Liber IT School
 
