@@ -12,12 +12,18 @@
 
 🔔 **[Rpush-server](https://github.com/vitalyliber/rpush-server):** Send notifications to iOS/Android easily.
 
-### Contacts
+# Contacts
 
 ✉️ [Telegram](https://t.me/vitalyliber)
 
 🤳 [Instagram](https://www.instagram.com/vitalyliber)
 
-### Stack
+📕 [Blog](https://t.me/useruby)
+
+# Liber IT School
+
+🎓 [Deploy applications with Dokku](https://school.casply.com/dc1c7ee5ac3d49fdb931b090d167a8a3)
+
+# Stack
 
 React Native, Expo, NextJS, React, TypeScript, JavaScript, Expo, Redux, MobX, Ruby on Rails
