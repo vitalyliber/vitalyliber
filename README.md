@@ -22,7 +22,7 @@
 
 # Liber IT School
 
-🎓 [Deploy applications with Dokku](https://school.casply.com/courses/deploj-prilozhenij-s-dokku)
+🐳 [Deploy applications with Dokku](https://vitalyliber.com/courses/deploj-prilozhenij-s-dokku)
 
 # Stack
 
