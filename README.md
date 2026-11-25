@@ -1,21 +1,21 @@
-# My projects
+# Hi, I’m Vitaly
 
-### Open Source
+I build web apps with Ruby on Rails, native macOS tools with Swift, and browser games.
 
-🔔 **[Pusher](https://github.com/vitalyliber/Pusher):** Pusher is a backend web service built with Ruby on Rails that helps apps send push notifications to mobile devices.
+## Saytap
 
-# Contacts
+Select an English word on your Mac and tap Option twice to hear it pronounced and see its translation next to the cursor.
 
-✉️ [Telegram](https://t.me/vitalyliber)
+[Visit website](https://vitalyliber.github.io/saytap/) · [View source](https://github.com/vitalyliber/saytap)
 
-🤳 [Instagram](https://www.instagram.com/vitalyliber)
+[![Saytap demo: select “harbour,” tap Option twice, and see the Spanish translation.](assets/saytap.gif)](https://vitalyliber.github.io/saytap/)
 
-📕 [Blog](https://t.me/s/useruby)
+## The House Inside the Painting
 
-# Liber IT School
+A 3D browser adventure where you step into a painting and explore an old house in the woods.
 
-🐳 [Deploy applications with Dokku [RUS]](https://github.com/vitalyliber/vitalyliber/wiki/%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D1%81_Dokku)
+[Play in browser](https://spooky.casply.com/games/portrait-house)
 
-# Stack
+[![Gameplay: a glowing painting leads from an attic to a house in a foggy forest.](assets/portrait-house.gif)](https://spooky.casply.com/games/portrait-house)
 
-React Native, Expo, NextJS, React, TypeScript, JavaScript, Expo, Redux, MobX, Ruby on Rails
+[Telegram](https://t.me/vitalyliber) · [Blog](https://t.me/s/useruby)
